@@ -6,7 +6,7 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VaxNDYc9MF8sHB7ply2y">
+  <a href="https://whatsapp.com/channel/0029VanxGm5J3jv39RvJIM39">
     <img alt=Support height="390" src="https://i.ibb.co/8NyZV1Q/image.jpg"> 
     </p>
 
@@ -31,7 +31,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://gitHub.com/Phantom-kin/Phantom-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Johanlieb34/TojiMd.git' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by Pairing Code
@@ -48,7 +48,7 @@
    <br>
 2. Now Deploy ON HEROKU 
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Phantom-kin/Phantom-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Johanlieb34/TojiMd.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 
 #### DEPLOY TO RENDER
@@ -65,7 +65,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 🦁 `BOT OWNER` 
-<a href="https://github.com/Phantom-kin"><img src="https://github.com/Phantom-kin.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/johanlieb34"><img src="https://github.com/johanlieb34.png" width="250" height="250" alt="king johan"/></a>
 
 ## 🍀 `CONTRIBUTOR` 
 <a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Salman Ahmad"/></a>
