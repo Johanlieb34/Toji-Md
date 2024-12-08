@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Phantom-kin/Phantom-MD  /root/phantom
-WORKDIR /root/phantom/
+RUN git clone https://github.com/Johanlieb34/Toji-Md  /root/toji
+WORKDIR /root/toji/
 
 
 COPY package.json .
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "phantom.js"]
+CMD ["npm", "run" , "toji.js"]
