@@ -18,7 +18,7 @@
     "whatsapp-bot",
     "toj-md-bot"
   ],
-  "author": "Phantom",
+  "author": "King Johan",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
