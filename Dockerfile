@@ -12,7 +12,9 @@ RUN apt-get update && \
 RUN git clone https://github.com/Johanlieb34/Toji-Md  /root/toji
 WORKDIR /root/toji/
 
+RUN npm cache clean --force
 
+RUN rm -rf ~/node_modules 
 COPY package.json .
 RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps
@@ -21,4 +23,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "toji.js"]
+CMD ["npm","start"]
